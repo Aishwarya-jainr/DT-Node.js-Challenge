@@ -293,7 +293,3 @@ curl http://localhost:5000/health
 ## Additional Documentation
 
 See [NUDGE_API_DOCUMENTATION.md](./NUDGE_API_DOCUMENTATION.md) for notification feature specification.
-
-## License
-
-This project is for educational/portfolio purposes.
